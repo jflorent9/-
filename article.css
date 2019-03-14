@@ -1,0 +1,26 @@
+.header-articles{
+
+    background-image: url(../tutosass/img-walk/feet.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+h4 {
+    color: #ffc95d;
+    font-family: 'ZCOOL QingKe HuangYou', 'Arial', sans-serif;
+    
+
+}
+
+h3{
+    color: #2718d3;
+    font-family: 'ZCOOL QingKe HuangYou', 'Arial', sans-serif;
+}
+.text{
+    position: relative;
+
+}
+
+

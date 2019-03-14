@@ -1,0 +1,166 @@
+p {
+    color: #000000;
+    margin-top: 10px;
+
+}
+
+.carousel-inner {
+    border-radius: 20px;
+
+
+}
+
+h1 {
+    color: #623ae8;
+    font-family: 'ZCOOL QingKe HuangYou', 'Arial', sans-serif;
+}
+
+h3 {
+    color: #3e71ad;
+    font-family: 'ZCOOL QingKe HuangYou', 'Arial', sans-serif;
+}
+
+h2 {
+    color: #ffc95d;
+    font-family: 'ZCOOL QingKe HuangYou', 'Arial', sans-serif;
+}
+
+h4 {
+    color: #ffc95d;
+    font-family: 'ZCOOL QingKe HuangYou', 'Arial', sans-serif;
+}
+
+.newcontainer {
+    display: flex;
+
+}
+
+.new {
+    margin-left: 60%;
+    position: relative;
+    top: -400px;
+
+
+}
+
+
+.culture {
+    margin-left: 60%;
+    position: relative;
+    top: -400px;
+    text-align: center;
+
+}
+
+.marques {
+    top: -600px;
+    position: relative;
+
+}
+
+.banniere {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: table;
+    background-color: black;
+    position: relative;
+    top: -500px;
+}
+
+.neon {
+    font-family: neon;
+    color: #FB4264;
+    font-size: 9vw;
+    line-height: 9vw;
+    text-shadow: 0 0 3vw #F40A35;
+}
+
+.flux {
+    font-family: neon;
+    color: #426DFB;
+    font-size: 9vw;
+    line-height: 9vw;
+    text-shadow: 0 0 3vw #2356FF;
+
+}
+
+.neon {
+    animation: neon 1s ease infinite;
+    -moz-animation: neon 1s ease infinite;
+    -webkit-animation: neon 1s ease infinite;
+}
+
+.flux {
+    animation: flux 2s linear infinite;
+    -moz-animation: flux 2s linear infinite;
+    -webkit-animation: flux 2s linear infinite;
+    -o-animation: flux 2s linear infinite;
+}
+
+
+.cultures {
+    top: -500px;
+    position: relative;
+    background-color: #9371e0;
+
+}
+
+.galerie {
+    top: -400px;
+    position: relative;
+
+}
+
+
+.section2 {
+    background-image: url(../tutosass/img-walk/yeezy.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20%;
+    top: -600px;
+    position: relative;
+}
+
+.gif {
+    margin-left: 400px;
+    position: relative;
+    top: -700px;
+}
+
+.article {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #57bd84;
+    top: -590px;
+    position: relative;
+  
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #ffdc4b;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #ffffff;
+    
+}
+
+.button:hover {background-color: #8090d4}
+
+.button:active {
+  background-color: #b29cfc;
+  box-shadow: 0 5px #bca1a1;
+  transform: translateY(4px);
+}
